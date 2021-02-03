@@ -1,6 +1,6 @@
-# Quasar App (quiz-hero)
+# Quasar App (quiz-heroes)
 
-App created in the Vue.js journal - Thiago Puntar
+App created in the Vue.js and Quasar Journal - Thiago Puntar
 
 ## Install the dependencies
 ```bash
